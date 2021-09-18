@@ -1,2 +1,1 @@
-# config
-Personal configuration files
+# To be added
