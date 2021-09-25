@@ -4,6 +4,7 @@
 	username = Berkanktk
 [core]
 	editor = nano
+	excludesfile = ~/.gitignore_global
 [init]
 	defaultBranch = master
 [alias]
