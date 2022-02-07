@@ -97,3 +97,9 @@ __pycache__/
 *.zip
 *.tar.gz
 *.rar
+
+# Virtualenv
+.Python
+pyvenv.cfg
+.venv
+pip-selfcheck.json
