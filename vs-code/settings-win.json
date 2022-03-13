@@ -1,0 +1,20 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "python.pythonPath": "C:\\Users\\Berkan\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "editor.codeLens": false,
+    "workbench.commandPalette.preserveInput": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "python.defaultInterpreterPath": "C:\\Users\\Berkan\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.minimap.enabled": false,
+    "markdown.preview.scrollPreviewWithEditor": false,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "files.autoSave": "onFocusChange"
+}
