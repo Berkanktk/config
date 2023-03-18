@@ -1,0 +1,16 @@
+Logtech GHub Configs for G502 HERO
+
+DPI: 850
+Report Frequency: 1000
+
+Speeds:
+600/850/1450/3150/3950
+
+Macro:
+Save Shadowplay Video - G7
+Notion Color Change - G8
+Screenshot - G8-shift
+Jitter Click - G9
+
+Shortcuts:
+Alt + Tab  - G1-shift
